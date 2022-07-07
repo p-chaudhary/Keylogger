@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1578954378 source:c:\users\mohit\downloads\123\advanced-keylogger-using-cpp-master\keylogger\main.cpp
+	<iostream>
+	<Windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1578954378 c:\users\mohit\downloads\123\advanced-keylogger-using-cpp-master\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1578954378 c:\users\mohit\downloads\123\advanced-keylogger-using-cpp-master\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1578954378 c:\users\mohit\downloads\123\advanced-keylogger-using-cpp-master\keylogger\base64.h
+	<vector>
+	<string>
+
+1578954378 c:\users\mohit\downloads\123\advanced-keylogger-using-cpp-master\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<Windows.h>
+	"Helper.h"
+	"Base64.h"
+
+1578954378 c:\users\mohit\downloads\123\advanced-keylogger-using-cpp-master\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1657106145 c:\users\mohit\downloads\123\advanced-keylogger-using-cpp-master\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<Windows.h>
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1657115921 c:\users\mohit\downloads\123\advanced-keylogger-using-cpp-master\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	<Windows.h>
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1578954378 source:c:\users\mohit\desktop\projecct keylogger\keylogger\main.cpp
+	<iostream>
+	<Windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1578954378 c:\users\mohit\desktop\projecct keylogger\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1578954378 c:\users\mohit\desktop\projecct keylogger\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1578954378 c:\users\mohit\desktop\projecct keylogger\keylogger\base64.h
+	<vector>
+	<string>
+
+1578954378 c:\users\mohit\desktop\projecct keylogger\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<Windows.h>
+	"Helper.h"
+	"Base64.h"
+
+1578954378 c:\users\mohit\desktop\projecct keylogger\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1657106145 c:\users\mohit\desktop\projecct keylogger\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<Windows.h>
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1657115921 c:\users\mohit\desktop\projecct keylogger\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	<Windows.h>
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1657180585 source:c:\users\91852\onedrive\desktop\projecct keylogger\keylogger\main.cpp
+	<iostream>
+	<Windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1657180585 c:\users\91852\onedrive\desktop\projecct keylogger\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1657180585 c:\users\91852\onedrive\desktop\projecct keylogger\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1657180584 c:\users\91852\onedrive\desktop\projecct keylogger\keylogger\base64.h
+	<vector>
+	<string>
+
+1657180585 c:\users\91852\onedrive\desktop\projecct keylogger\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<Windows.h>
+	"Helper.h"
+	"Base64.h"
+
+1657180585 c:\users\91852\onedrive\desktop\projecct keylogger\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1657180758 c:\users\91852\onedrive\desktop\projecct keylogger\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<Windows.h>
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1657180585 c:\users\91852\onedrive\desktop\projecct keylogger\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	<Windows.h>
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+

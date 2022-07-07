@@ -1,0 +1,18 @@
+[06.07.2022 18:25:00]
+Hook started... Timer started
+
+[06.07.2022 18:25:21]
+<From SendMail> Return code: 4878472
+
+[06.07.2022 19:28:54]
+Hook started... Timer started
+
+[07.07.2022 13:29:49]
+Hook started... Timer started
+
+[07.07.2022 13:30:26]
+Mail was not sent! Error code: 259
+
+[07.07.2022 13:30:26]
+<From SendMail> Return code: 16891888
+
